@@ -1,3 +1,3 @@
 This is free of use, modify and redistribute only for non-commercial purposes. All the risk of usage is on your own, the author is not responsible for any damage as a result from errors in the software or codes. Please refer to this repository as:
-<br />Daniel Hoche, Mohamadreza Shariati, Wolfgang E. Weber, Jan Bohlen, Gerrit Kurz, Dietmar Letzig. Enabling intelligent Mg-sheet processing utilizing efficient machine-learning algorithm. DOI: 10.5281/zenodo.3736427
+<br />Daniel Hoche, Mohamadreza Shariati, Wolfgang E. Weber, Jan Bohlen, Gerrit Kurz, Dietmar Letzig. Enabling intelligent Mg-sheet processing utilizing efficient machine-learning algorithm. DOI: 10.5281/zenodo.3736427.
 
